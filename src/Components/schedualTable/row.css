@@ -1,0 +1,37 @@
+.SchedualRow {
+  grid-template-rows: 20% 30% 40% 10%;
+  margin-bottom: 30px;
+}
+
+@media screen and (min-width: 792px) {
+  .SchedualRow {
+    display: grid;
+    grid-template-columns: 10% 25% 50% 10%;
+    justify-content: center;
+    width: 100%;
+    border-radius: 15px;
+    border: 2px solid #808080;
+    padding: 7px;
+  }
+}
+
+.modal-header {
+  background-color: #808080;
+}
+
+.modal-footer {
+  background-color: #808080;
+}
+
+.posterAndRatings {
+  display: flex;
+  justify-content: space-between;
+}
+.poster.img {
+  width: 200px;
+  height: 200px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}

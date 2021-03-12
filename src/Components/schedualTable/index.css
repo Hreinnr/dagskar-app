@@ -1,0 +1,10 @@
+body {
+  margin: 10px;
+  font: 80% Arial, Helvetica, sans-serif;
+}
+
+.SchedualContent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
