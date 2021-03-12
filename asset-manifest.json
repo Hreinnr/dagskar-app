@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/dagskra-app/static/css/main.b816acda.chunk.css",
+    "main.js": "/dagskra-app/static/js/main.65531fd1.chunk.js",
+    "main.js.map": "/dagskra-app/static/js/main.65531fd1.chunk.js.map",
+    "runtime-main.js": "/dagskra-app/static/js/runtime-main.11cd30e6.js",
+    "runtime-main.js.map": "/dagskra-app/static/js/runtime-main.11cd30e6.js.map",
+    "static/css/2.fabbef47.chunk.css": "/dagskra-app/static/css/2.fabbef47.chunk.css",
+    "static/js/2.de36dffa.chunk.js": "/dagskra-app/static/js/2.de36dffa.chunk.js",
+    "static/js/2.de36dffa.chunk.js.map": "/dagskra-app/static/js/2.de36dffa.chunk.js.map",
+    "static/js/3.45c8f876.chunk.js": "/dagskra-app/static/js/3.45c8f876.chunk.js",
+    "static/js/3.45c8f876.chunk.js.map": "/dagskra-app/static/js/3.45c8f876.chunk.js.map",
+    "index.html": "/dagskra-app/index.html",
+    "static/css/2.fabbef47.chunk.css.map": "/dagskra-app/static/css/2.fabbef47.chunk.css.map",
+    "static/css/main.b816acda.chunk.css.map": "/dagskra-app/static/css/main.b816acda.chunk.css.map",
+    "static/js/2.de36dffa.chunk.js.LICENSE.txt": "/dagskra-app/static/js/2.de36dffa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11cd30e6.js",
+    "static/css/2.fabbef47.chunk.css",
+    "static/js/2.de36dffa.chunk.js",
+    "static/css/main.b816acda.chunk.css",
+    "static/js/main.65531fd1.chunk.js"
+  ]
+}
